@@ -6,6 +6,7 @@ void main()
 {
 	int ch, n, a[10], sum;
 	struct bstnode* node;
+
 	node = NULL;
 
 	printf("\nOPERATIONS ---");
