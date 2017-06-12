@@ -4,6 +4,7 @@
 #include <cstdio>
 #include<cstdlib>
 #include<string>
+
 using namespace std;
 
 #endif // COMMON_H
